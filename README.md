@@ -13,6 +13,7 @@ can `brew install ustwo/tools/<formula>`.
 ## Tools
 
 * [Mastermind, man in the middle testing](https://github.com/ustwo/mastemind)
+* [Github Issues CLI](https://github.com/ustwo/github-issues)
 
 
 ## Maintainer
