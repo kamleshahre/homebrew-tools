@@ -1,8 +1,8 @@
 class Mastermind < Formula
   desc "Man in the middle testing"
   homepage "https://github.com/ustwo/mastermind"
-  url "https://github.com/ustwo/mastermind/releases/download/v0.9.0/mastermind-v0.9.0-osx-amd64.tar.gz"
-  sha256 "459dca30693a00cc55de4c6f31251a4898644d1edd71105f76f3e4b556662134"
+  url "https://github.com/ustwo/mastermind/releases/download/v1.0.0-beta/mastermind-v1.0.0-beta-osx-amd64.tar.gz"
+  sha256 "c651350d19f96485f371f80647b43e92bc1a561156368a65df886ad6877eca15"
   version "0.9.0"
 
   def install
